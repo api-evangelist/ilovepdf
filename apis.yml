@@ -1,0 +1,32 @@
+aid: ilovepdf
+name: iLovePDF
+description: "Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month"
+url: https://developer.ilovepdf.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: iLovePDF
+    description: "Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month"
+    humanURL: https://developer.ilovepdf.com/
+    baseURL: https://developer.ilovepdf.com/
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://developer.ilovepdf.com/
+common:
+  - type: Website
+    url: https://developer.ilovepdf.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
