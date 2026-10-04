@@ -35,13 +35,13 @@ x-category: "Documents & Productivity"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Documents And Productivity
   - Public APIs
+  - PDF
+  - Documents
 apis:
   - name: iLovePDF
     description: "Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month"
     humanURL: https://developer.ilovepdf.com/
-    baseURL: https://developer.ilovepdf.com/
     tags:
       - Documents And Productivity
     properties:
@@ -57,3 +57,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Documents And Productivity
